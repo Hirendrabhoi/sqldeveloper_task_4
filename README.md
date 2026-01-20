@@ -6,4 +6,9 @@ This task focuses on understanding how to **sort, filter, and limit SQL query re
 
 ### Tools Used
 - MySQL Workbench  
-- SQL (MySQL syntax)  
+- SQL (MySQL syntax)
+- 
+## Repository Contents
+- `database.sql`- contain the database on which filter is done
+- `task_3_queries.sql` – Complete task submission with queries
+- `README.md` – Description of the task
